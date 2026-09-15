@@ -3,7 +3,7 @@ import telebot
 from yt_dlp import YoutubeDL
 
 # توکن ربات قفل موزیک
-BOT_TOKEN = "7952409747:AAFsWl3XF00G4Yy4nZ7g8_E2fE_qBfXp0qA"
+BOT_TOKEN = "8924509328:AAGJEBa4DDbydq-qYooSugiP5F1jKqD-q58"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # ساخت پوشه موقت برای دانلودها

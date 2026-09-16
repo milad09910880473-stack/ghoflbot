@@ -46,4 +46,3 @@ async def download_song(client, message):
         await message.reply(f"خطا در دانلود موزیک: {str(e)}")
 
 app.run()
-
